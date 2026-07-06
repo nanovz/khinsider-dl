@@ -7,6 +7,3 @@ Only does MP3 (for now)
 khinsider-dl https://downloads.khinsider.com/game-soundtracks/album/minecraft-classic-soundtrack-gamerip-2013 -o ./output/
 ```
 Without the -o argument by default it just downloads to what directory you run it in.
-
-
-made on python 3.12.3
